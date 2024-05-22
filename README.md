@@ -1,5 +1,5 @@
 Briefly describe what the code is supposed to do.  
-* This web app should accept a URL via a text box for the target site to scrape, then pull event information from the provided site, organize it in a csv file, and provide UI to allow the user to download the resulting csv file.  
+* This web app should accept a URL (pointing to a YMCA search result page) via a text box for the target site to scrape, then pull event information from the target site, organize it in a csv file, and provide UI to allow the user to download the resulting csv file.  
 
 Does the code work? If not, what's broken.  
 * Sort of works -- is able to extract the information from the YMCA site, but some weird formatting and the site is not able to accept urls thru the UI
